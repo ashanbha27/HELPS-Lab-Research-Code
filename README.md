@@ -1,2 +1,2 @@
-# video-analytics-code
-My code for the Video Analytics for Human Behavior team. Code was originally stored in a private repo.
+# HELPS-Lab-Research-Code
+All code in Purdue's HELPS lab are in private repos. This is some of the code I am allowed to show, without adding whole repos.
